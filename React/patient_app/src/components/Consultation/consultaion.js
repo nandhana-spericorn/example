@@ -25,6 +25,8 @@ const Consultation = () => {
 
           <div class="form-group phone-group">
             <label for="phone">Téléphone (mobile)</label>
+            <label for="phone">Téléphone (mobile)</label>
+            <label for="phone">Téléphone (mobile)</label>
             <input id="phone" type="text" />
           </div>
 
