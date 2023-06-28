@@ -10,19 +10,10 @@ const Consultation = () => {
           <div class="form-group a">
             <label for="name">Nom</label>
 
-            <label for="name">Nom</label>
-            <label for="name">Nom</label>
-            <label for="name">Nom</label>
-            <label for="name">Nom</label>
-            <label for="name">Nom</label>
-            <label for="name">Nom</label>
-
-
             <input id="name" type="text" />
           </div>
 
           <div class="form-group b">
-            <label for="first-name">Prénom</label>
             <label for="first-name">Prénom</label>
             <input id="first-name" type="text" />
           </div>
