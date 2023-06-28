@@ -10,19 +10,10 @@ const Consultation = () => {
           <div class="form-group a">
             <label for="name">Nom</label>
 
-            <label for="name">Nom</label>
-            <label for="name">Nom</label>
-            <label for="name">Nom</label>
-            <label for="name">Nom</label>
-            <label for="name">Nom</label>
-            <label for="name">Nom</label>
-
-
             <input id="name" type="text" />
           </div>
 
           <div class="form-group b">
-            <label for="first-name">Prénom</label>
             <label for="first-name">Prénom</label>
             <input id="first-name" type="text" />
           </div>
@@ -33,6 +24,8 @@ const Consultation = () => {
           </div>
 
           <div class="form-group phone-group">
+            <label for="phone">Téléphone (mobile)</label>
+            <label for="phone">Téléphone (mobile)</label>
             <label for="phone">Téléphone (mobile)</label>
             <input id="phone" type="text" />
           </div>
