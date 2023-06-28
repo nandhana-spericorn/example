@@ -20,16 +20,11 @@ const Consultation = () => {
 
           <div class="form-group email-group">
             <label for="email">Email</label>
-            <label for="email">Email</label>
-            <label for="email">Email</label>
             <input id="email" type="text" />
           </div>
 
           <div class="form-group phone-group">
             <label for="phone">Téléphone (mobile)</label>
-            <label for="phone">Téléphone (mobile)</label>
-            <label for="phone">Téléphone (mobile)</label>
-            <input id="phone" type="text" />
           </div>
 
           <div class="textarea-group">
@@ -43,6 +38,9 @@ const Consultation = () => {
           </div>
 
           <div class="form-group">
+            <label for="city">Ville</label>
+            <label for="city">Ville</label>
+            <label for="city">Ville</label>
             <label for="city">Ville</label>
             <input id="city" type="text" />
           </div>
