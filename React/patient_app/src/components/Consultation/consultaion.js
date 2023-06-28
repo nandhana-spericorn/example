@@ -20,6 +20,8 @@ const Consultation = () => {
 
           <div class="form-group email-group">
             <label for="email">Email</label>
+            <label for="email">Email</label>
+            <label for="email">Email</label>
             <input id="email" type="text" />
           </div>
 
